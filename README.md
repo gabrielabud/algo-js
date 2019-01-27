@@ -1,1 +1,1 @@
-# algo-js
+# Algorithms and Data Structures in Javascript
